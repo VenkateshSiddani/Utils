@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = 'https://github.com/VenkateshSiddani/Utils'
   s.license      = 'MIT'
   s.author       = { 'VenkateshSiddani' => 'siddani.venky01@gmail.com' }
-  s.source       = { :git => 'https://github.com/VenkateshSiddani/Utils.git', :branch => 'master' }
+  s.source       = { :git => 'https://github.com/VenkateshSiddani/Utils', :branch => 'master' }
   s.platform     = :ios, '7.0'
   s.requires_arc = true
   
