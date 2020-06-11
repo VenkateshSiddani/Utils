@@ -1,0 +1,33 @@
+PODS:
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - FrameAccessor (2.0.1)
+  - Reachability (5.0.0)
+  - XcodeCoverage (1.2.2)
+
+DEPENDENCIES:
+  - BlocksKit
+  - FrameAccessor
+  - Reachability
+  - XcodeCoverage
+
+SPEC CHECKSUMS:
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  FrameAccessor: cdcf05394b881b664bd48aebd37d407ff970a208
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  XcodeCoverage: 46ab36f35da908cf70498a34610c95d24230303a
+
+COCOAPODS: 0.39.0
